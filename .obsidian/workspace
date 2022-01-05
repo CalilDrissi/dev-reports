@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "de1b5be6d4406915",
+    "type": "split",
+    "children": [
+      {
+        "id": "a63478a943f5b8f2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "home marketplace project traversy.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cb9e265f49162cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddf7779826b29329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c2027df20c6bdb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0320fc69c512cbbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aba8f4c2f0c70dd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f032149426dbdab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0822135c425f9fe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "home marketplace project traversy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a63478a943f5b8f2",
+  "lastOpenFiles": [
+    "home marketplace project traversy.md"
+  ]
+}
