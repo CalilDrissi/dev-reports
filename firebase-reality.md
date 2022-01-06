@@ -22,3 +22,10 @@
 -----
 to learn more about:
 - why use .jsx instead of js - is it a new react standard?
+-       
+
+- download copy manager.
+
+- strapi project for restaurant menus.
+
+-react route v6 difference.
