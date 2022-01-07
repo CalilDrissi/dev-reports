@@ -6,26 +6,15 @@
 ------
 ### mistates I make:
 
-
-
-
-
+---
 ### how to prevent them:
-
-
-
 
 ----------
 ## where can I improve more:
-	- speed of execution
-	- better precode planning
+	- I lack speed of execution
+	- better precode planning and maping out what I am about to accomplish.
 -----
-to learn more about:
+#### to learn more about:
 - why use .jsx instead of js - is it a new react standard?
--       
-
-- download copy manager.
-
-- strapi project for restaurant menus.
-
--react route v6 difference.
+- react route v6 difference.
+- I no longer need to import react?
