@@ -20,3 +20,6 @@
 - I no longer need to import react?
 - no need to import fragments anymore?
 - javascript array and objects methods
+- test yourself in react classes
+- add go and rust and haskell and scala and c++ to projects I'll do 
+- api with docs project
