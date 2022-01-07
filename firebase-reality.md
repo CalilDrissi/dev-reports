@@ -8,6 +8,9 @@
 
 ---
 ### how to prevent them:
+----
+### iterations to make the project better or turn it into something useful for me:
+
 
 ----------
 ## where can I improve more:
