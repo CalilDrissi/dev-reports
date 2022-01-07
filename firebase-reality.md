@@ -18,3 +18,4 @@
 - why use .jsx instead of js - is it a new react standard?
 - react route v6 difference.
 - I no longer need to import react?
+- no need to import fragments anymore?
