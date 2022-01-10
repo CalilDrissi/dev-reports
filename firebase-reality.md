@@ -25,3 +25,6 @@
 - javascript array and objects methods
 - test yourself in react classes
 - previous state in react
+- difference between old private routes and new one react router 6.
+- creating costum hooks in react.
+- practice UseRef
