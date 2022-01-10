@@ -28,3 +28,4 @@
 - difference between old private routes and new one react router 6.
 - creating costum hooks in react.
 - practice UseRef
+- react shortcuts
