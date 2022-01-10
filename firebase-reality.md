@@ -24,3 +24,4 @@
 - no need to import fragments anymore?
 - javascript array and objects methods
 - test yourself in react classes
+- previous state in react
