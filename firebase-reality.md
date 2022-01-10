@@ -10,7 +10,11 @@
 ### how to prevent them:
 ----
 ### iterations to make the project better or turn it into something useful for me:
-
+add next js to the stack
+add testing with to the coding process
+turn it into a jamstack 
+make with another backend solution other than firebase
+add ai image recognition and filtering
 
 ----------
 ## where can I improve more:
