@@ -34,3 +34,5 @@ add ai image recognition and filtering
 - practice UseRef
 - react shortcuts
 - onSubmit & onChange practice 
+- javascript objects & modules practice
+- javascript promises
