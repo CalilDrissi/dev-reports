@@ -33,3 +33,4 @@ add ai image recognition and filtering
 - creating costum hooks in react.
 - practice UseRef
 - react shortcuts
+- onSubmit & onChange practice 
