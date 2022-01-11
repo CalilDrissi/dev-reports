@@ -36,3 +36,4 @@ add ai image recognition and filtering
 - onSubmit & onChange practice 
 - javascript objects & modules practice
 - javascript promises
+- javascript map spread enums switch loop array & object methods practice
