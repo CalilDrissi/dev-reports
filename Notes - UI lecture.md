@@ -7,7 +7,7 @@ With no content building UI  is impossible.
 ## begin sketch design - responsive
 
 
-
+build with illustration you have at hand then find alternatives after firt iterations.
 
 
 the list:
