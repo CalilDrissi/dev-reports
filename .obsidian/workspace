@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "firebase-reality.md",
+            "file": "Notes - UI lecture.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "firebase-reality.md",
+                "file": "Notes - UI lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
   },
   "active": "697eacdb5fa6bb54",
   "lastOpenFiles": [
-    "firebase-reality.md",
-    "Untitled.md"
+    "Notes - UI lecture.md",
+    "firebase-reality.md"
   ]
 }
