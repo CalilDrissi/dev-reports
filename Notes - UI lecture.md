@@ -4,7 +4,9 @@ With no content building UI  is impossible.
 
 ### I need the content for calil.tech.
 
-### I need the structure
+## begin sketch design - responsive
+
+
 
 
 
@@ -13,6 +15,26 @@ the list:
 a personal photograph.
 
 name & what I do.  
+
+
+
+version 01
+
+1. navigation
+
+2. hero title and image
+
+3. recent projects list
+
+4. skills & toolkit
+
+5. contact form
+
+6. footer
+
+
+ideas to add for version 02
+
 
 
 
