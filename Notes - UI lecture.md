@@ -31,7 +31,7 @@ section titles
 
 5. contact form
 
-6. footer
+6. footer **
 
 
 ideas to add for version 02
