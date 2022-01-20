@@ -24,6 +24,7 @@ version 01
 
 2. hero title and image
 
+section titles
 3. recent projects list
 
 4. skills & toolkit
