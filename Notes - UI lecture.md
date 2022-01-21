@@ -17,6 +17,9 @@ a personal photograph.
 name & what I do.  
 
 
+good design is about iteration cycles not pre-planning to get things right on the first go.
+the first go is for filling the page.
+
 
 version 01
 
@@ -26,7 +29,6 @@ version 01
 
 3. recent projects list
 ----------
-
 
 
 4. skills & toolkit**  
