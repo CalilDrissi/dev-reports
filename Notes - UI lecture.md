@@ -6,50 +6,22 @@ With no content building UI  is impossible.
 
 ## begin sketch design - responsive
 
-
 build with illustration you have at hand then find alternatives after firt iterations.
 
-
 the list:
-
 a personal photograph.
 
 name & what I do.  
 
-
 good design is about iteration cycles not pre-planning to get things right on the first go.
+
 the first go is for filling the page.
-
-
-version 01
-
-1. navigation
-
-2. hero title and image
-
-3. recent projects list
-----------
-
-
-4. skills & toolkit**  
-
-
-------
-5. contact form
-
-
-
-6. footer 
-
 
 ideas to add for version 02
 
-
-
-------
 I have to practice some css. 
 
-  and then build the layout of the page. 
+and then build the layout of the page. 
 
 
   
