@@ -34,3 +34,6 @@ also begin js today.  create roadmap to follow
 
 ---
 the more time you spend on activity today the easier it will be tomorrow.
+
+---
+finish gathering the content first text and media and icons.
