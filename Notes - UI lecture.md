@@ -34,5 +34,7 @@ also begin js today.  create roadmap to follow
 ---
 the more time you spend on activity today the easier it will be the next day.
 
+---
+graphic design of illustrations is important to my success.  human are very visual and they judge about they see.
 
-
+I must be profient with graphic design software and create great looking graphics.
