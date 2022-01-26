@@ -1,7 +1,6 @@
 With no content building UI  is impossible. 
 
 
-
 ### I need the content for calil.tech.
 
 ## begin sketch design - responsive
