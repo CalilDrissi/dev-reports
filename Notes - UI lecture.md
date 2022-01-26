@@ -33,6 +33,7 @@ also begin css today.  create roadmap to follow & start it today.
 also begin js today.  create roadmap to follow 
 
 ---
-the more time you spend on activity today the easier it will be tomorrow.
+the more time you spend on activity today the easier it will be the next day.
+
 
 
