@@ -38,3 +38,12 @@ the more time you spend on activity today the easier it will be the next day.
 graphic design of illustrations is important to my success.  human are very visual and they judge about they see.
 
 I must be profient with graphic design software and create great looking graphics.
+
+---
+in graphic design software, right now i need the basics. I need to get started. 
+
+and I am not looking to earn money as an illustrator or a graphic designer, I just want to create some graphics when i need them for a project.
+
+---
+
+computer drawing - focus on the basics. use affinity designer understand how it works analyse it. then move to illustrator if you must.
