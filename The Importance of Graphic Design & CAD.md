@@ -32,3 +32,6 @@ what type of graphics???
 conveying message via visuals is more powerful 
 than words.
 understand visual communication.
+
+---
+what are the most indemand technologies in web dev market today?
