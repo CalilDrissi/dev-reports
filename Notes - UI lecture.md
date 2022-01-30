@@ -21,7 +21,6 @@ ideas to add for version 02
 I have to practice some css. 
 
 and then build the layout of the page. 
-
 ---
 so my focus will be on building responsive webdesigns with sketch.
 
