@@ -14,4 +14,4 @@ what can I do better:
 
 
 -----
-advice for my next landing page project. 
+advice for my next project. 
