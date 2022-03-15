@@ -10,8 +10,5 @@ mistakes I made?
 what can I do better:
 
 
-
-
-
 -----
 advice for my next project. 
