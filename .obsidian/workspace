@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS Project DiY notes.md",
+            "file": "Building Food truck market place web app.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5,
-    "collapsed": true
+    "width": 548.5
   },
   "right": {
     "id": "aba8f4c2f0c70dd7",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Project DiY notes.md",
+                "file": "Building Food truck market place web app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +89,14 @@
   },
   "active": "697eacdb5fa6bb54",
   "lastOpenFiles": [
-    "CSS Project DiY notes.md",
-    "to delete -- In browser tech learning material that I have on my computer.md",
     "Building Food truck market place web app.md",
+    "CSS Project DiY notes.md",
     "firebase-reality.md",
-    "list of project I desire to make.md",
+    "The Importance of Graphic Design & CAD.md",
     "the secret life of programs BOOK report.md",
+    "to delete -- In browser tech learning material that I have on my computer.md",
     "Untitled.md",
-    "Notes - UI lecture.md",
-    "The Importance of Graphic Design & CAD.md"
+    "list of project I desire to make.md",
+    "Notes - UI lecture.md"
   ]
 }
