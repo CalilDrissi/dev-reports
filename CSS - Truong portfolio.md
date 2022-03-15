@@ -7,6 +7,7 @@ yet  my struggle was real, i really struggled.
 
 mistakes I made?
 
+1. writing the markup makes it easier to build.
 
 
 what can I do better:
