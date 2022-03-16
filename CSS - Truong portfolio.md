@@ -9,6 +9,8 @@ yet  my struggle was real, i really struggled.
 -----------------------------
 mistakes I made?
 
+-no design decision while coding css. 
+-no responsiveness untill whole website is complete
 
 
 -------------
