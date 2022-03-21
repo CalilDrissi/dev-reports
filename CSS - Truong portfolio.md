@@ -26,3 +26,4 @@ what I learned doing this project ?
 what can I do better -- advice for my next project. 
 
 1. writing the html markup on my own from scratch makes it easier to build.
+2. write every section first in the html markup
