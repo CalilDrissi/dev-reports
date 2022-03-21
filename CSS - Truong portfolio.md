@@ -24,6 +24,8 @@ what I learned doing this project ?
 
 ----
 ## Guidelines
+
+No haste - relax and work relaxed
       
 Imitate don’t innovate Design + Content
 
@@ -33,11 +35,10 @@ one stylesheet file - no jumping around files
 
 Test yourself
 
-Take snippets
+Get used to writing code on your own -- get comforable writing code. 
 
-Get used to writing code on your own.
 
-Review code and optimise it 
+Review code AND optimise it AND Take snippets
   
 Dev reports
 
@@ -46,4 +47,4 @@ what can I do better -- advice for my next project.
 
 1. writing the html markup on my own from scratch makes it easier to build.
 2. write every section first in the html markup
-3. 
+3. think about what do write before you write it. graphic design or diagrams  & descriptions of what to create with code is key to success. define what you are building first and cut it into steps.
