@@ -22,8 +22,28 @@ Things I did well
 what I learned doing this project ?
 
 
+----
+## Guidelines
+      
+Imitate don’t innovate Design + Content
+
+no responsive for now.
+
+one stylesheet file - no jumping around files
+
+Test yourself
+
+Take snippets
+
+Get used to writing code on your own.
+
+Review code and optimise it 
+  
+Dev reports
+
 -----
 what can I do better -- advice for my next project. 
 
 1. writing the html markup on my own from scratch makes it easier to build.
 2. write every section first in the html markup
+3. 
