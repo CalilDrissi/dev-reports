@@ -12,6 +12,7 @@ mistakes I made?
 -no design decision while coding css. 
 -no responsiveness untill whole website is complete
 
+- I struggle writing content on the page and deciding the html markup tree structure. 
 
 -bad at naming classes really is a struggle for me.
 -bad at ordering css declarations.
@@ -49,5 +50,9 @@ Dev reports
 what can I do better -- advice for my next project. 
 
 1. writing the html markup on my own from scratch makes it easier to build.
+
+
 2. write every section first in the html markup
+
+
 3. think about what do write before you write it. graphic design or diagrams  & descriptions of what to create with code is key to success. define what you are building first and cut it into steps.
