@@ -13,6 +13,9 @@ mistakes I made?
 -no responsiveness untill whole website is complete
 
 
+-bad at naming classes really is a struggle for me.
+-bad at ordering css declarations.
+
 -------------
 Things I did well
 
