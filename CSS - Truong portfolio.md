@@ -13,11 +13,14 @@ mistakes I made?
 -no responsiveness untill whole website is complete
 
 - I struggle writing content on the page and deciding the html markup tree structure. 
-
+- I work with haste like I'm runnig from a tiger.
 -bad at naming classes really is a struggle for me.
 -bad at ordering css declarations.
 
--------------
+      
+
+lack of knowledge in spacing elements.
+
 Things I did well
 
 
