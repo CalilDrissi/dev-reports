@@ -1,6 +1,6 @@
   
 
-composition as skeleton -  is the layout system
+composition as skeleton -  is the element agnostic layout system
 handles the layout where elements are placed
 
   
