@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS - Truong portfolio.md",
+            "file": "Cube CSS Methodology.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 339.5
   },
   "right": {
     "id": "aba8f4c2f0c70dd7",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS - Truong portfolio.md",
+                "file": "Cube CSS Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +89,7 @@
   },
   "active": "697eacdb5fa6bb54",
   "lastOpenFiles": [
+    "Cube CSS Methodology.md",
     "CSS - Truong portfolio.md",
     "to delete --.md",
     "The Importance of Graphic Design & CAD.md",
@@ -97,7 +97,6 @@
     "list of project I desire to make.md",
     "firebase-reality.md",
     "Building Food truck market place web app.md",
-    "the secret life of programs BOOK report.md",
-    "Untitled.md"
+    "the secret life of programs BOOK report.md"
   ]
 }
