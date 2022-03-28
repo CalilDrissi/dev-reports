@@ -1,6 +1,7 @@
   
 
-composition as skeleton - handles the layout where elements are placed
+composition as skeleton -  is the layout system
+handles the layout where elements are placed
 
   
 
