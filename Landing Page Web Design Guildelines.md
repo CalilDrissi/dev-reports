@@ -19,9 +19,11 @@
 
 ## Steps for Developing landing page
 
-1. tech stack choice.
-2. assets and copywrite at hand 
-3. colors and fonts (responsive) and spacing(responsive) values system established. 
-4. define reusable components and code them first. 
-5. build section by section in responsive mode. 
-6. 
+1. define personality 
+2. find inspiration 
+3. tech stack choice.
+4. assets and copywrite at hand 
+5. colors and fonts (responsive) and spacing(responsive) values system established. 
+6. define reusable components and code them first. 
+7. build section by section in responsive mode. 
+8. 
