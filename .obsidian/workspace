@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript studies.md",
+            "file": "Landing Page Web Design Guildelines.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript studies.md",
+                "file": "Landing Page Web Design Guildelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "697eacdb5fa6bb54",
   "lastOpenFiles": [
-    "Javascript studies.md",
     "Landing Page Web Design Guildelines.md",
+    "Javascript studies.md",
     "Cube CSS Methodology.md",
     "CSS - Truong portfolio.md",
     "to delete --.md",
