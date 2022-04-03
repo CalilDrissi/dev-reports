@@ -9,7 +9,7 @@ working with librairies and frameworks and dev tools.
 
 typescript
 
-design patterns and snippets - cookbook. solution for common problems. 
+design patterns and snippets - cookbook - tips- secrets . solution for common problems. 
 
 coding challenges
 
