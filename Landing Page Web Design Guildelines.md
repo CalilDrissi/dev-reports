@@ -20,8 +20,16 @@
 7. build section by section in responsive mode. 
 
 
+
+analyse the design first
+before you jump to the code editor.
+mobile first.
+do it then analyse it. put it there then make it better.
+
+--------
+
 -----
-progression:
+progression of study and projects:
 
 1. landing pages
 2. cms themes wp/ghost/hugo etc...
