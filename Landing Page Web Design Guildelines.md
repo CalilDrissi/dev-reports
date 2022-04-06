@@ -5,7 +5,6 @@
 
 
 
-
 3. define a mockup 
 4. Full Graphic design - all design choice made here not whilst coding. 
 
