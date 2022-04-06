@@ -1,8 +1,13 @@
 ## Steps for choosing landing page look
 
 1. choose a personality type: elegant/minimal/plain-corporate/Bold/calm/tech/playful = apply specific personality traits for typography/colors/images/icons/shadows/border-radius/page-layout. 
-2. define a mockup 
-3. Full Graphic design - all design choice made here not whilst coding. 
+
+
+
+
+
+3. define a mockup 
+4. Full Graphic design - all design choice made here not whilst coding. 
 
 
 
@@ -20,30 +25,11 @@
 7. build section by section in responsive mode. 
 
 
-
 analyse the design first
 before you jump to the code editor.
 mobile first.
 do it then analyse it. put it there then make it better.
 
---------
 
------
-progression of study and projects:
 
-1. landing pages
-2. cms themes wp/ghost/hugo etc...
-3. front end apps 
 
-next:
-
-1. crud full stack apps
-2. server rest api 
-3. webrtc apps
-
-next:
-
-1. wasm apps rust
-2. blockchain p2p
-3. mobile flutter
-4. games godot 3d vr
