@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web App Design Guidelines.md",
+            "file": "Landing Page Web Design Guildelines.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web App Design Guidelines.md",
+                "file": "Landing Page Web Design Guildelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "697eacdb5fa6bb54",
   "lastOpenFiles": [
-    "Web App Design Guidelines.md",
     "Landing Page Web Design Guildelines.md",
+    "Web App Design Guidelines.md",
     "Screenshot 2022-04-06 at 09.00.23.png",
     "Progression of studies and projects types.md",
     "Javascript studies.md",
