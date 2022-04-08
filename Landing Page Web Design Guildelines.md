@@ -1,12 +1,9 @@
 ## Steps for choosing landing page look
 
-1. choose a personality type: elegant/minimal/plain-corporate/Bold/calm/tech/playful = apply specific personality traits for typography/colors/images/icons/shadows/border-radius/page-layout. 
-
-
-
-
-3. define a mockup 
-4. Full Graphic design - all design choice made here not whilst coding. 
+1. choose a personality type.
+2. select design parameters
+4. define a mockup 
+5. Full Graphic design - all design choice made here not whilst coding. 
 
 
 
