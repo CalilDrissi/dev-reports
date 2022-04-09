@@ -32,3 +32,5 @@ list of common ui layout patterns
 
 list of common ui animation patterns
 
+The design must follow the content not the other way around.
+
