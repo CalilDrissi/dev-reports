@@ -28,5 +28,7 @@ do it then analyse it. put it there then make it better.
 
 
 ---
-list of common ui layout
+list of common ui layout patterns
+
+list of common ui animation patterns
 
