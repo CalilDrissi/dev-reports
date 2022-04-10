@@ -27,6 +27,11 @@ mobile first.
 do it then analyse it. put it there then make it better.
 
 
+analyse the design first
+before you jump to the code editor.
+mobile first.
+do it then analyse it. put it there then make it better.
+
 ---
 list of common ui layout patterns
 
