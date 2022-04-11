@@ -1,14 +1,12 @@
 ## Steps for choosing landing page look
 
-1. choose a personality type.
-2. select design parameters
-4. define a mockup 
-5. Full Graphic design - all design choice made here not whilst coding. 
-
-
+ Advice: 
+Full Graphic design - don't make design choice whilst coding. 
 
 -- Don't find complications where there is none
 
+make it 
+then make it better
 
 ## Steps for Developing landing page
 
@@ -26,11 +24,6 @@ before you jump to the code editor.
 mobile first.
 do it then analyse it. put it there then make it better.
 
-
-analyse the design first
-before you jump to the code editor.
-mobile first.
-do it then analyse it. put it there then make it better.
 
 ---
 list of common ui layout patterns

@@ -7,8 +7,12 @@
         "id": "697eacdb5fa6bb54",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CSS - Truong portfolio.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS - Truong portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,14 +89,14 @@
   },
   "active": "697eacdb5fa6bb54",
   "lastOpenFiles": [
-    "Untitled.md",
+    "CSS - Truong portfolio.md",
     "Landing Page Web Design Guildelines.md",
+    "Progression of studies and projects types.md",
+    "Untitled.md",
     "Web App Design Guidelines.md",
     "Screenshot 2022-04-06 at 09.00.23.png",
-    "Progression of studies and projects types.md",
     "Javascript studies.md",
     "Cube CSS Methodology.md",
-    "CSS - Truong portfolio.md",
     "to delete --.md",
     "The Importance of Graphic Design & CAD.md"
   ]
