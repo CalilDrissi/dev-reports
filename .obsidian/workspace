@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS - Truong portfolio.md",
+            "file": "Landing Page Web Design Guildelines.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS - Truong portfolio.md",
+                "file": "Landing Page Web Design Guildelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "697eacdb5fa6bb54",
   "lastOpenFiles": [
-    "CSS - Truong portfolio.md",
     "Landing Page Web Design Guildelines.md",
+    "CSS - Truong portfolio.md",
     "Web App Design Guidelines.md",
     "Progression of studies and projects types.md",
     "Untitled.md",
