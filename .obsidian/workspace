@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Landing Page Web Design Guildelines.md",
+            "file": "Styled components notes.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "aba8f4c2f0c70dd7",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landing Page Web Design Guildelines.md",
+                "file": "Styled components notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +90,11 @@
   },
   "active": "5738a0d90fee44be",
   "lastOpenFiles": [
+    "Styled components notes.md",
     "Landing Page Web Design Guildelines.md",
     "CSS - Truong portfolio.md",
     "Web App Design Guidelines.md",
     "Progression of studies and projects types.md",
-    "Untitled.md",
     "Screenshot 2022-04-06 at 09.00.23.png",
     "Javascript studies.md",
     "Cube CSS Methodology.md",
