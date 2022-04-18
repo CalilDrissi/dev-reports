@@ -12,7 +12,8 @@
 ### To Study:
 
 webpack
-pseudo & algorithms
+flowchart & pseudo code
+data structures and algorithms
 test driven react development
 typescript in react 
 storybook
