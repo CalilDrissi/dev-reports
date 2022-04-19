@@ -6,6 +6,9 @@
  Minimise learning resources load to absolute bare minimum. 
 
 ## Inbox:
+ it is not about what you know , it is what you can build and show to the world. 
+
+
 
 
 
@@ -21,7 +24,7 @@ practice cube css
 graphQL in react
 gsap in react
 framer motion in react - framer motion no code. 
-
+airbnb style guides youtube traversy 
 
 ### PRACTICE MORE:
 
