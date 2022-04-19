@@ -6,10 +6,10 @@
  Minimise learning resources load to absolute bare minimum. 
 
 ## Inbox:
- it is not about what you know , it is what you can build and show to the world. 
-
-
-
+ -it is not about what you know , it is what you can build and show to the world. 
+-you what to watch random videos for the rest of your life?
+NO, then sit down and do the work and earn a living.
+-where 
 
 
 ### To Study:
