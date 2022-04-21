@@ -14,7 +14,8 @@ I've created a list in the chrome book marks
 I want them with source code and font end only. 
 -Get better at javascript to ace code test , I need a method/plan/time allocation for this.
 -Get better with graphic Design & CSS, I need method / plan /time-allocation for this.
-
+-React and electron
+-airbnb react style guide
 
 ### To Study:
 
