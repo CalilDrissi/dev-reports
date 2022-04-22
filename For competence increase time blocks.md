@@ -17,6 +17,7 @@ I want them with source code and font end only.
 -React and electron - it exists - I can make a radio app like this - book library too.
 -airbnb react style guide
 -naming convention for gatsby pages camel case or - ??
+rugby symbol of british occupation in ireland
 
 ### To Study:
 
