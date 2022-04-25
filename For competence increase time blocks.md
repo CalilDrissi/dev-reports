@@ -23,6 +23,7 @@ rugby symbol of british occupation in ireland
 -airbnb react style guide
 -naming convention for gatsby pages camel case or - ?? ( pages small case, components capitalize)
 rugby symbol of british occupation in ireland
+-Styled components utility classes. resusable code blocks.
 
 ### To Study:
 
