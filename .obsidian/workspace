@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Progression of studies and projects types.md",
+            "file": "Routine Ideas to incorporate.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progression of studies and projects types.md",
+                "file": "Routine Ideas to incorporate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "5738a0d90fee44be",
   "lastOpenFiles": [
+    "Routine Ideas to incorporate.md",
     "Progression of studies and projects types.md",
     "Web App Design Guidelines.md",
     "Landing Page Web Design Guildelines.md",
@@ -97,7 +98,6 @@
     "firebase-reality.md",
     "Screenshot 2022-04-06 at 09.00.23.png",
     "Javascript studies.md",
-    "Cube CSS Methodology.md",
-    "to delete --.md"
+    "Cube CSS Methodology.md"
   ]
 }
