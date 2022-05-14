@@ -6,6 +6,8 @@
  Minimise learning resources load to absolute bare minimum. 
 
 ## Inbox Clear At the End of Every Project/Topic:
+
+-javascript basics how lines of code execute?
  -it is not about what you know , it is what you can build and show to the world. 
 -you what to watch random videos/eat/walk/distract yourself for the rest of your life?
 NO, then sit down and do the work and earn a living.
