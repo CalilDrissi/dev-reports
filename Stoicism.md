@@ -1,0 +1,1 @@
+Never give high expectations, expect nothing and you want be hurt

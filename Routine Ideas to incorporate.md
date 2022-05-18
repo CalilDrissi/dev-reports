@@ -1,13 +1,32 @@
-## Every Week
+## Every Day
 
 1. add in the loop time everyweek
 2. add discover new time everyweek
+3. add declutter time everyday
 
 
+## Every Week
 
 
+## Every 2 weeks
 
 
-## Every Day
+## Every Month
 
-1. add declutter time everyday
+
+## Every 3 Months
+
+
+## Every 6 Months
+
+
+## Every Year
+
+
+## Every 2 Years
+
+
+## Every 5 Year
+
+
+## Every Decade
