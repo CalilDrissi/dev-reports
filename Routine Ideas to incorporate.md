@@ -9,7 +9,7 @@
 
 
 ## Every 2 weeks
-
+1. news - world affairs - politics news - 
 
 ## Every Month
 
