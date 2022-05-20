@@ -6,4 +6,5 @@
 	4. useReducer to dispatch action to change global state
 3. you can create multiple global state contexts based on each data resourse.
 4. in context the app level component gets wrapped in a Provider Component
-5. 
+5. fd
+6. 
