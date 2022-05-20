@@ -11,10 +11,12 @@
 
 4. Tour & Declutter  everyday. you need a system for organizing information . 
 
-1. stay updated on tech innovation 
+1. stay updated on tech innovation (ex: new cpu techonology, new invention in robotics )
 
-3. discover information I didn't know in software development 
+3. discover information I didn't know in software development (an effective way to secure web app,  )
 
+5. stay updated on software development update ex(new react version , new backend tech, new front-end framework,  )
+ 
 
 ## Every 2 Days
 1. walk to carrefour and sit.
