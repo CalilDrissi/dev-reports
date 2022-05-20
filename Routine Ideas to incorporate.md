@@ -1,7 +1,8 @@
-## To Drop From Daily Action
+## To Drop From Daily Action - They discrate, they waste time and mental energy from solving current priority problems at hand. 
 1. youtube any content suggested - you can save it on raindrop if you must
 2. Series and Movies and Documentaries 
 3. World Affairs update and political lectures
+4. unplanned walks 
 
 
 
@@ -15,6 +16,8 @@
 3. discover information I didn't know in software development 
 
 
+## Every 2 Days
+1. walk to carrefour and sit.
 
 
 ## Every Week
