@@ -4,4 +4,8 @@ it is just a memorization of steps mostly, not entirely but mostly.
 
 it is about finding instructions and remember those instruction for each task you try to accomplish. 
 
-copying snippets for lessons and documentation.
+copying snippets for lessons and documentation
+
+
+----
+working a web project means defining what to do first before your write code. 

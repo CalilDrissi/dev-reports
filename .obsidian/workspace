@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web dev thoughts.md",
+            "file": "Routine Ideas to incorporate.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web dev thoughts.md",
+                "file": "Routine Ideas to incorporate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5738a0d90fee44be",
   "lastOpenFiles": [
-    "web dev thoughts.md",
     "Routine Ideas to incorporate.md",
+    "React Js Notes.md",
+    "web dev thoughts.md",
     "Stoicism.md",
     "Social Skills.md",
     "Good Desicion Making Process.md",
     "For competence increase time blocks.md",
     "CSS - Truong portfolio.md",
     "Progression of studies and projects types.md",
-    "Web App Design Guidelines.md",
-    "Landing Page Web Design Guildelines.md"
+    "Web App Design Guidelines.md"
   ]
 }
