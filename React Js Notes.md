@@ -1,15 +1,18 @@
 1. review the context api basics and different method of implementation. 
-2. what are hook and how can you make custom ones. 
+2. how to implement:
+	1. read access to all registered users
+	2. read access to just selected users
+3. what are hook and how can you make custom ones. 
 	1. 
-3. most used hooks
+4. most used hooks
 	1. useState for changing state
 	2. useEffect for life cycle functionality
 	3. useContext to give access to global state to any component 
 	4. useReducer to dispatch action to change global state
-4. you can create multiple global state contexts based on each data resourse.
-5. in context the app level component gets wrapped in a Provider Component
-6. fd
-7. Context in React Instructions
+5. you can create multiple global state contexts based on each data resourse.
+6. in context the app level component gets wrapped in a Provider Component
+7. fd
+8. Context in React Instructions
 	1. create a folder in src , name it context
 	2. create types.js - contains the names of all the actions tha will change state value.
 	3. create a folder for each resource type
