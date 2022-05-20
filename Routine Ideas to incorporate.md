@@ -1,8 +1,9 @@
 ## Every Day
 
-1. add in the loop time everyweek
-2. add discover new time everyweek
-3. add declutter time everyday
+1. stay updated on tech innovation 
+2. discover information in software development 
+3. add discover new time everyweek
+4. add declutter time everyday
 
 
 ## Every Week
