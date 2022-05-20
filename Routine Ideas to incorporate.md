@@ -1,9 +1,11 @@
 ## Every Day
 
 1. stay updated on tech innovation 
-2. discover information in software development 
-3. add discover new time everyweek
-4. add declutter time everyday
+
+
+3. discover information I didn't know in software development 
+
+4. Tour & Declutter 
 
 
 ## Every Week
