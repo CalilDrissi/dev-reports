@@ -2,7 +2,7 @@
 1. youtube any content suggested - you can save it on raindrop if you must
 2. Series and Movies and Documentaries 
 3. World Affairs update and political lectures
-4. unplanned walks 
+4. unplanned impulsive random walks - must be planned
 
 
 

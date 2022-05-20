@@ -9,3 +9,7 @@ copying snippets for lessons and documentation
 
 ----
 working a web project means defining what to do first before your write code. 
+
+
+I am just learning instruction to memorise.
+if you want this you follow these steps.
