@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React Study Notes.md",
+            "file": "Styled components Course mind dump.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Study Notes.md",
+                "file": "Styled components Course mind dump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "5738a0d90fee44be",
   "lastOpenFiles": [
+    "Styled components Course mind dump.md",
     "React Study Notes.md",
     "React Js Notes.md",
     "web dev thoughts.md",
@@ -98,7 +99,6 @@
     "Stoicism.md",
     "Social Skills.md",
     "Good Desicion Making Process.md",
-    "For competence increase time blocks.md",
-    "CSS - Truong portfolio.md"
+    "For competence increase time blocks.md"
   ]
 }
