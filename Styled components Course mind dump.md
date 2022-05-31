@@ -19,4 +19,6 @@ react controlled component? is it form input.
 
 you javascript basics jonas netninja - env setup. webpack/vite/parcel.
 
+recheck those unit espacially em.
+
 ## Redo the whole course project on my own
