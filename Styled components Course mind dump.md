@@ -4,3 +4,5 @@ mvc mvp mvvm ???
 reg ex is it useful?? use cases 
 
 uselocation hook to get url
+
+recheck breakpoints values - firefox - jonas 
