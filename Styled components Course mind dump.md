@@ -8,3 +8,13 @@ uselocation hook to get url
 recheck breakpoints values - firefox - jonas 
 
 why use both at the same time min-width: 25px; & width: 25px;
+
+recheck border-box. 
+
+analyse the reponsive nav it the course.
+
+net ninja dark mode - dark mode selecting colors google search
+
+react controlled component? is it form input.
+
+## Redo the whole course project on my own
