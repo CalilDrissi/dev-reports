@@ -27,7 +27,13 @@ practice form element in plain html and in react
 
 make react todo lists to practice. state and useffect and ref and forms
 react with apis
+react animation transitions librairies 
+
+***react basics practice until they become second nature.  state  useeffect useref router  onchange onsubmit  api / axios try catch protected routes. 
+simple projects like to do list , like food api and company. 
 
 css animations with jonas
+
+react interview questions.
 
 ## Redo the whole course project on my own
