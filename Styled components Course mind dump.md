@@ -21,6 +21,10 @@ you javascript basics jonas netninja - env setup. webpack/vite/parcel.
 
 recheck those unit espacially em.
 
+react { } and ${ } usage 
+
 practice form element in plain html and in react
+
+make react todo lists to practice. state and useffect and ref and forms
 
 ## Redo the whole course project on my own
