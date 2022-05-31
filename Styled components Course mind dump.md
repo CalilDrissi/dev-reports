@@ -6,3 +6,5 @@ reg ex is it useful?? use cases
 uselocation hook to get url
 
 recheck breakpoints values - firefox - jonas 
+
+why use both at the same time min-width: 25px; & width: 25px;
