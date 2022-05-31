@@ -27,4 +27,6 @@ practice form element in plain html and in react
 
 make react todo lists to practice. state and useffect and ref and forms
 
+css animations with jonas
+
 ## Redo the whole course project on my own
