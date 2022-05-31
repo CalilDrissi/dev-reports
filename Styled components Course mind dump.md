@@ -13,8 +13,10 @@ recheck border-box.
 
 analyse the reponsive nav it the course.
 
-net ninja dark mode - dark mode selecting colors google search
+net ninja dark mode - dark mode selecting colors google search ( you have to understand events. )
 
 react controlled component? is it form input.
+
+you javascript basics jonas netninja - env setup. webpack/vite/parcel.
 
 ## Redo the whole course project on my own
