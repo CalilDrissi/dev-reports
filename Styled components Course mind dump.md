@@ -21,4 +21,6 @@ you javascript basics jonas netninja - env setup. webpack/vite/parcel.
 
 recheck those unit espacially em.
 
+practice form element in plain html and in react
+
 ## Redo the whole course project on my own
