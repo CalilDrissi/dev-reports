@@ -36,4 +36,8 @@ css animations with jonas
 
 react interview questions.
 
+background color vs background
+
+isActive is a react keyword
+
 ## Redo the whole course project on my own
