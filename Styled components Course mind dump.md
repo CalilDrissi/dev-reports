@@ -21,7 +21,7 @@ you javascript basics jonas netninja - env setup. webpack/vite/parcel.
 
 recheck those unit espacially em.
 
-react { } and ${ } usage 
+react { }(inside jsx) and ${ }(inside template literals) usage
 
 practice form element in plain html and in react
 
