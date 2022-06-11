@@ -1,4 +1,4 @@
-progression of study and projects:
+Progression of studies in software development:
 
 1. landing pages
 2. cms themes wp/ghost/hugo etc...

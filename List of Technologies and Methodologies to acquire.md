@@ -5,7 +5,6 @@
 4. oop 
 5. functional
 6. test driven dev
-7. 
 
 ## Technologies
 1. typescript
