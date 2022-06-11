@@ -1,3 +1,5 @@
+remember: Define what you are going to build thorouly before opening the code editor.
+
 ## Brochure website
 	it just presents static information to the user. no interactivity. just displays info.
 
@@ -14,6 +16,7 @@ like a calculator, or a todo app, or a photo editor, like a radio app, drawing a
 
 1. client relation manager dashboard.
 2. realtime chat app
+3. ecommerce 
 
 
 1. magic menu as display project at first
