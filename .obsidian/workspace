@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "list of website to build by type.md",
+            "file": "The Importance of Graphic Design & CAD.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "list of website to build by type.md",
+                "file": "The Importance of Graphic Design & CAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5738a0d90fee44be",
   "lastOpenFiles": [
+    "The Importance of Graphic Design & CAD.md",
+    "firebase-reality.md",
+    "Notes - UI lecture.md",
+    "the secret life of programs BOOK report.md",
+    "Building Food truck market place web app.md",
+    "to delete --.md",
     "list of website to build by type.md",
     "Ui Design & Css tips.md",
-    "the secret life of programs BOOK report.md",
-    "to delete --.md",
     "Cube CSS Methodology.md",
-    "CSS - Truong portfolio.md",
-    "For competence increase time blocks.md",
-    "Good Desicion Making Process.md",
-    "Stoicism.md",
-    "Social Skills.md"
+    "CSS - Truong portfolio.md"
   ]
 }
