@@ -1,20 +1,25 @@
-Progression of studies in software development technology stacks & software Dev Fields:
+### Progression of studies in software development technology stacks & software Dev Fields:
 
 1. Planning website + content selection + ui design 
 2. CSS 
 3. sass & dev env
 4. client javascript & dev env
+	1. graphQL
+	2. Webpack
+	3. test driven
+	4. cleancode
 5. react js - next - gatsby
 6. firebase & strapi & supabase & vendure & sanity & datocms 
-7. nest js 
-8. postgresql
-9. mongodb - rethinkdb
-10. graph db - ne4j
-11. golang system development
-12. python
-13. Mobile Dev: Dart - flutter
-14. Rust
-15. elixir
+7. typescript
+8. nest js 
+9. postgresql
+10. mongodb - rethinkdb
+11. graph db - ne4j
+12. golang system development
+13. python
+14. Mobile Dev: Dart - flutter
+15. Rust
+16. elixir
 
 type of project progression:
 
