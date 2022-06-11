@@ -25,6 +25,7 @@
 7. firebase & strapi & supabase & vendure & sanity & datocms 
 8. typescript
 9. nest js 
+	1. mvc - handlebars - old school fullstack app. 
 10. postgresql
 11. mongodb - rethinkdb
 12. graph db - ne4j
