@@ -6,4 +6,4 @@ all colors in boxes
 
 all responsive fonts based on rem value. 
 
-with dark mode switch.
+with dark mode switch. 
