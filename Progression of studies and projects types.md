@@ -83,6 +83,12 @@
 	3. metamask
 	4. ipfs
 22. iot 
+	1. node red
+	2. redis streams
+	3. rethink db
+	4. kafka
+	5. mqtt
+	6. bluetooth mesh
 23. Create a programming language - FEZ
 24. OS development
 	1. computer 
