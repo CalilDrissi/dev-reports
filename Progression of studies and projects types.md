@@ -10,10 +10,10 @@
 	2. ui librairies ex: bootstarp - bulma
 	3. cube css bem  methodologies
 	4. tailwindcss
-3. **client javascript & dev env
+3. **Client Javascript & dev env
 	1. js onliners - design patterns - dt & algo - cookbook - tips & tricks
 	2. graphQL
-	3. Webpack
+	3. Webpack - vite - parcel
 	4. test driven
 	5. clean code & clean architecture
 	6. npm librairies - gsap - three.js
@@ -54,10 +54,11 @@
 12. Python
 13. Mobile Dev: Dart - flutter
 14. Rust
-15. Elixir
+15. webAssembly
+16. Elixir
 	1. Haskell
-16. OpenCV - TensorFlow
-17. Blockchain & p2p
+17. OpenCV - TensorFlow
+18. Blockchain & p2p
 	1. ethereum
 	2. gun js
 	3. metamask
