@@ -88,14 +88,14 @@
 	1. computer 
 	2. distributed computing
 	3. computer network dev - create diy protocols
-25. embedded software
+25. Embedded software
 	1. drivers
 	2. iot os
 	3. firmware
-26. hardware engineering & manufacturing
+26. Computer Hardware engineering & manufacturing
 27. Robotics
 
-type of project progression:
+### Type of project progression:
 
 1. crud full stack apps
 2. cms themes wp/ghost/hugo etc...
@@ -104,9 +104,4 @@ type of project progression:
 5. server rest api 
 6. webrtc apps
 
-next:
-
-1. wasm apps rust
-2. blockchain p2p
-3. mobile flutter
-4. games godot 3d vr
+### Other Topics to Study:
