@@ -92,7 +92,8 @@
 	1. drivers
 	2. iot os
 	3. firmware
-26. hardware manufacturing
+26. hardware engineering & manufacturing
+27. Robotics
 
 type of project progression:
 
