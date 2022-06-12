@@ -83,14 +83,16 @@
 	3. metamask
 	4. ipfs
 22. iot 
-23. os development
-	1. computer
-	2. computer network dev - create diy protocols
-24. embedded software
+23. Create a programming language - FEZ
+24. OS development
+	1. computer 
+	2. distributed computing
+	3. computer network dev - create diy protocols
+25. embedded software
 	1. drivers
 	2. iot os
 	3. firmware
-25. hardware manufacturing
+26. hardware manufacturing
 
 type of project progression:
 
