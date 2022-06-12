@@ -6,26 +6,43 @@
 	3. finding media assets - illustration - 3d models - video etc..
 	4. html elements structure
 2. CSS 
-	1. ui librairies ex: bootstarp - bulma
-	2. cube css bem  methodologies
-	3. tailwindcss
-3. sass & dev env
-4. client javascript & dev env
+	1. sass & npm dev env
+	2. ui librairies ex: bootstarp - bulma
+	3. cube css bem  methodologies
+	4. tailwindcss
+3. **client javascript & dev env
 	1. js onliners - design patterns - dt & algo - cookbook - tips & tricks
 	2. graphQL
 	3. Webpack
 	4. test driven
 	5. clean code & clean architecture
 	6. npm librairies - gsap - three.js
-6. react js
+4. react js
 	1. styledcomponents
 	2. gatsby
 	3. next
 	4. ui component lib - material ui
-7. firebase & strapi & supabase & vendure & sanity & datocms 
-8. typescript
-9. nest js 
+5. firebase & strapi & supabase & vendure & sanity & datocms 
+6. typescript
+7. node basics
+	1. build automation scripts
+	2. cli
+	3. video chat app - remote screen sharing
+	4. networking basics study - http udp p2p etc...
+8. nest js 
 	1. mvc - handlebars - old school fullstack app. 
+	2. rest api
+	3. grapghQL
+	4. webrtc
+	5. file storage
+9. Modern Production Deployement
+	1. Docker
+	2. nginx
+	3. system design
+	4. Cloud native - self healing - load balancing - grafana
+	5. github actions ci-cd
+	6. scrum quality optimizatio cycles
+	7. full stack infrastructure for scale-security-reliability-efficient(cost)-data resilliance.
 10. postgresql
 11. mongodb - rethinkdb
 12. graph db - ne4j
@@ -34,6 +51,8 @@
 15. Mobile Dev: Dart - flutter
 16. Rust
 17. elixir
+18. OpenCV - TensorFlow
+19. Etherium
 
 type of project progression:
 
