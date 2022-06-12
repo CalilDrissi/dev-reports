@@ -66,9 +66,11 @@
 14. Mobile Dev: Dart - Flutter
 15. Rust
 16. webAssembly
-17. Elixir
+17. Pure Functional Programming Languages
 	1. Haskell
+	2. elixir
 18. OpenCV - TensorFlow
+	1. julia programming language
 19. Blockchain & p2p
 	1. ethereum
 	2. gun js
