@@ -64,23 +64,33 @@
 	3. fintech with python
 	4. ai & big data 
 14. Mobile Dev: Dart - Flutter
-15. Game Dev
+15. VR - AR 
+	1. web
+	2. platfroms - oculus - playstation  etc..
+16. Game Dev
 	1. godot
 	2. real engine
-16. Rust
-17. webAssembly
-18. Pure Functional Programming Languages
+17. Rust
+18. webAssembly
+19. Pure Functional Programming Languages
 	1. Haskell
 	2. elixir
-19. OpenCV - TensorFlow
+20. OpenCV - TensorFlow
 	1. julia programming language
-20. Blockchain & p2p
+21. Blockchain & p2p
 	1. ethereum
 	2. gun js
 	3. metamask
 	4. ipfs
-21. 
-
+22. iot 
+23. os development
+	1. computer
+	2. computer network dev - create diy protocols
+24. embedded software
+	1. drivers
+	2. iot os
+	3. firmware
+25. hardware manufacturing
 
 type of project progression:
 
