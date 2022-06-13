@@ -1,16 +1,30 @@
 ### Progression of studies in software development technology stacks & software Dev Fields:
 
-1. Planning Website + Content Selection + UI Design + tasks breakdown & time estimation and allocation
-	1. design systems - gitlab - ibm carbon etc...
-	2. jonas website personality method
-	3. finding media assets - illustration - 3d models - video etc..
-	4. html elements structure
-2. Responsive CSS 
+1. Planning Project (Define it, Content Selection, UI Design, tasks breakdown, time estimation and allocation)
+	1. **Standarized Process for each type of projects ( different plan based on type):
+		1. website Front end
+			1. landing page
+			2. cms theme
+			3. font end tool
+			4. full stack web app
+		2. Android-iOS ap
+		3. Web Server 
+			1. restful api
+			2. graphQL
+			3. webrtc
+			4. infrustructure system design
+		4. Desktop app
+		5. System program
+	2. design systems - gitlab - ibm carbon etc...
+	3. jonas website personality method
+	4. finding media assets - illustration - 3d models - video etc..
+	5. html elements structure
+3. Responsive CSS 
 	1. sass & npm dev env
 	2. ui librairies ex: bootstarp - bulma
 	3. cube css bem  methodologies
 	4. tailwindcss
-3. **Clientside Javascript
+4. **Clientside Javascript
 	1.  Dev env- 
 		1. npm
 		2. Webpack
