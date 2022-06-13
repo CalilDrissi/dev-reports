@@ -32,24 +32,27 @@
 6. Firebase
 	1. Alt:  strapi & supabase & vendure(shop) & sanity & datocms 
 7. Typescript
-8. Node basics
+8. Desktop App Dev
+	1. Electron
+	2. Tauri
+9. Node basics
 	1. build automation scripts
 	2. cli
 	3. video chat app - remote screen sharing
 	4. networking basics study - http udp p2p etc...
-9. Nest js 
+10. Nest js 
 	1. mvc - handlebars - old school fullstack app. 
 	2. rest api
 	3. grapghQL
 	4. webrtc
 	5. file storage
-10. Databases
+11. Databases
 	1. postgresql
 	2. Mongodb
 	3. Rethinkdb()
 	4. Redis - streams
 	5. graph dbs: ne4j -arangoDB
-11. Modern Production Deployement
+12. Modern Production Deployement
 	1. Docker
 	2. nginx
 	3. system design
@@ -57,49 +60,50 @@
 	5. github actions ci-cd
 	6. scrum quality optimizatio cycles
 	7. full stack infrastructure for scale-security-reliability-efficient(cost)-data resilliance.
-12. Golang system development
-13. Python
+13. Golang system development
+14. Python
 	1. automate boring stuff - course + book
 	2. django server 
 	3. fintech with python
 	4. ai & big data 
-14. Mobile Dev: Dart - Flutter
-15. VR - AR 
+15. Android & iOS Dev
+	1.  Dart - Flutter
+16. VR - AR 
 	1. web
 	2. platfroms - oculus - playstation  etc..
-16. Game Dev
+17. Game Dev
 	1. godot
 	2. real engine
-17. Rust
-18. webAssembly
-19. Pure Functional Programming Languages
+18. Rust
+19. webAssembly
+20. Pure Functional Programming Languages
 	1. Haskell
 	2. elixir
-20. OpenCV - TensorFlow
+21. OpenCV - TensorFlow
 	1. julia programming language
-21. Blockchain & p2p
+22. Blockchain & p2p
 	1. ethereum
 	2. gun js
 	3. metamask
 	4. ipfs
-22. iot 
+23. iot 
 	1. node red
 	2. redis streams
 	3. rethink db
 	4. kafka
 	5. mqtt
 	6. bluetooth mesh
-23. Create a programming language - FEZ
-24. OS development
+24. Create a programming language - FEZ
+25. OS development
 	1. computer 
 	2. distributed computing
 	3. computer network dev - create diy protocols
-25. Embedded software
+26. Embedded software
 	1. drivers
 	2. iot os
 	3. firmware
-26. Computer Hardware engineering & manufacturing
-27. Robotics
+27. Computer Hardware engineering & manufacturing
+28. Robotics
 
 ### Type of project progression:
 
