@@ -53,57 +53,60 @@
 	4. Redis - streams
 	5. graph dbs: ne4j -arangoDB
 12. Modern Production Deployement
-	1. Docker
-	2. nginx
-	3. system design
-	4. Cloud native - self healing - load balancing - grafana
-	5. github actions ci-cd
-	6. scrum quality optimizatio cycles
-	7. full stack infrastructure for scale-security-reliability-efficient(cost)-data resilliance.
-13. Golang system development
-14. Python
+	1. infrustructure models - classic & modern
+	2. Docker 
+	3. Virtual machines
+	4. nginx
+	5. Kubernetes , swarm - orchestratio 
+	6. system design
+	7. Cloud native - self healing - load balancing - grafana
+	8. github actions ci-cd
+	9. scrum quality optimizatio cycles
+	10. full stack infrastructure for scale-security-reliability-efficient(cost)-data resilliance.
+14. Golang system development
+15. Python
 	1. automate boring stuff - course + book
 	2. django server 
 	3. fintech with python
 	4. ai & big data 
-15. Android & iOS Dev
+16. Android & iOS Dev
 	1.  Dart - Flutter
-16. VR - AR 
+17. VR - AR 
 	1. web
 	2. platfroms - oculus - playstation  etc..
-17. Game Dev
+18. Game Dev
 	1. godot
 	2. real engine
-18. Rust
-19. webAssembly
-20. Pure Functional Programming Languages
+19. Rust
+20. webAssembly
+21. Pure Functional Programming Languages
 	1. Haskell
 	2. elixir
-21. OpenCV - TensorFlow
+22. OpenCV - TensorFlow
 	1. julia programming language
-22. Blockchain & p2p
+23. Blockchain & p2p
 	1. ethereum
 	2. gun js
 	3. metamask
 	4. ipfs
-23. iot 
+24. iot 
 	1. node red
 	2. redis streams
 	3. rethink db
 	4. kafka
 	5. mqtt
 	6. bluetooth mesh
-24. Create a programming language - FEZ
-25. OS development
+25. Create a programming language - FEZ
+26. OS development
 	1. computer 
 	2. distributed computing
 	3. computer network dev - create diy protocols
-26. Embedded software
+27. Embedded software
 	1. drivers
 	2. iot os
 	3. firmware
-27. Computer Hardware engineering & manufacturing
-28. Robotics
+28. Computer Hardware engineering & manufacturing
+29. Robotics
 
 ### Type of project progression:
 
