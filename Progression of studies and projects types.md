@@ -134,6 +134,7 @@
 6. webrtc apps
 
 ### Other Topics to Study:
- - the life of a software developer advice
-	 - street coder - and others in the same vain
+ - the life of a software developer advice & 
+	 - books : street coder - and others in the same vain
 	 - watch videos on this / courses / blog posts.
+ - book : the secret life of programs
