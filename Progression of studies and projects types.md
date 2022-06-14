@@ -35,6 +35,10 @@
 	4. test driven
 	5. clean code & clean architecture
 	6. npm librairies - gsap - three.js
+	7. html 5 api
+		1. voice input html5
+		2. drag and drop
+		3. html 5 auth biometric
 5. React js
 	1. styledcomponents
 	2. gatsby
@@ -77,52 +81,52 @@
 	8. github actions ci-cd
 	9. scrum quality optimizatio cycles
 	10. full stack infrastructure for scale-security-reliability-efficient(cost)-data resilliance.
-14. Golang system development
-15. Python
+13. Golang system development
+14. Python
 	1. automate boring stuff - course + book
 	2. django server 
 	3. fintech with python
 	4. ai & big data 
-16. Android & iOS Dev
+15. Android & iOS Dev
 	1.  Dart - Flutter
-17. VR - AR 
+16. VR - AR 
 	1. web
 	2. platfroms - oculus - playstation  etc..
-18. Game Dev
+17. Game Dev
 	1. godot
 	2. real engine
-19. Rust
-20. webAssembly
-21. Pure Functional Programming Languages
+18. Rust
+19. webAssembly
+20. Pure Functional Programming Languages
 	1. Haskell
 	2. elixir
-22. OpenCV - TensorFlow
+21. OpenCV - TensorFlow
 	1. julia programming language
-23. Blockchain & p2p
+22. Blockchain & p2p
 	1. ethereum
 	2. gun js
 	3. metamask
 	4. ipfs
-24. iot 
+23. iot 
 	1. node red
 	2. redis streams
 	3. rethink db
 	4. kafka
 	5. mqtt
 	6. bluetooth mesh
-25. Create a programming language - FEZ
-26. OS development
+24. Create a programming language - FEZ
+25. OS development
 	1. computer 
 	2. distributed computing
 	3. computer network dev - create diy protocols
-27. Embedded software
+26. Embedded software
 	1. drivers
 	2. c/c++
 	3. assembly language
 	4. iot os
 	5. firmware
-28. Computer Hardware engineering & manufacturing
-29. Robotics
+27. Computer Hardware engineering & manufacturing
+28. Robotics
 
 ### Type of project progression:
 
