@@ -117,8 +117,10 @@
 	3. computer network dev - create diy protocols
 27. Embedded software
 	1. drivers
-	2. iot os
-	3. firmware
+	2. c/c++
+	3. assembly language
+	4. iot os
+	5. firmware
 28. Computer Hardware engineering & manufacturing
 29. Robotics
 
