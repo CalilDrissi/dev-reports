@@ -21,7 +21,7 @@
 	5. html elements structure
 3. Responsive CSS 
 	1. sass & npm dev env
-	2. ui librairies ex: bootstarp - bulma - material ui - storybook - carbon
+	2. ui librairies ex: bootstarp - bulma - material ui - storybook - carbon - chakra ui
 	3. cube css bem  methodologies
 	4. tailwindcss
 4. **Clientside Javascript
