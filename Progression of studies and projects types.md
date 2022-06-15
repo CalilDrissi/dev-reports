@@ -21,7 +21,7 @@
 	5. html elements structure
 3. Responsive CSS 
 	1. sass & npm dev env
-	2. ui librairies ex: bootstarp - bulma
+	2. ui librairies ex: bootstarp - bulma - material ui - storybook - carbon
 	3. cube css bem  methodologies
 	4. tailwindcss
 4. **Clientside Javascript
@@ -74,13 +74,15 @@
 	1. infrustructure models - classic & modern
 	2. Docker 
 	3. Virtual machines
-	4. nginx
-	5. Kubernetes , swarm - orchestratio 
-	6. system design
-	7. Cloud native - self healing - load balancing - grafana
-	8. github actions ci-cd
-	9. scrum quality optimizatio cycles
-	10. full stack infrastructure for scale-security-reliability-efficient(cost)-data resilliance.
+	4. nginx - old school  - load balancing - database replications
+	5. file storage infrustructures 
+	6. realtime data streams infrustructure
+	7. Kubernetes , swarm - orchestration
+	8. system design
+	9. Cloud native - self healing - load balancing - grafana
+	10. github actions ci-cd
+	11. scrum quality optimizatio cycles
+	12. full stack infrastructure for scale-security-reliability-efficient(cost)-data resilliance.
 13. Golang system development
 14. Python
 	1. automate boring stuff - course + book
