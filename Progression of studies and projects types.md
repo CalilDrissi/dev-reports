@@ -19,6 +19,8 @@
 	3. jonas website personality method
 	4. finding media assets - illustration - 3d models - video etc..
 	5. html elements structure
+	6. what are the phase of software development from idea to production deployment.
+	7. agile scrum mvp approach to software development.
 3. Responsive CSS 
 	1. sass & npm dev env
 	2. ui librairies ex: bootstarp - bulma - material ui - storybook - carbon - chakra ui
