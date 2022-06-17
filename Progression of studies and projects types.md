@@ -1,7 +1,8 @@
 ### Progression of studies in software development technology stacks & software Dev Fields:
 
-1. Planning Project (Define it, Content Selection, UI Design, tasks breakdown, time estimation and allocation)
-	1. **Standarized Process for each type of projects ( different plan based on type):
+1. Planning the Project 
+	1. (Define it, Content Selection, UI Design, tasks breakdown, time estimation and allocation)
+	2. **Standarized Process for each type of projects ( different plan based on type):
 		1. website Front end
 			1. landing page
 			2. cms theme
@@ -15,13 +16,13 @@
 			4. infrustructure system design
 		4. Desktop app
 		5. System program
-	2. design systems - gitlab - ibm carbon etc...
-	3. jonas website personality method
-	4. finding media assets - illustration - 3d models - video etc..
-	5. html elements structure
-	6. what are the phase of software development from idea to production deployment.
-	7. agile scrum mvp approach to software development.
-3. Responsive CSS 
+	3. design systems - gitlab - ibm carbon etc...
+	4. jonas website personality method
+	5. finding media assets - illustration - 3d models - video etc..
+	6. html elements structure
+	7. what are the phase of software development from idea to production deployment.
+	8. agile scrum mvp approach to software development.
+3. Responsive Html/CSS 
 	1. sass & npm dev env
 	2. ui librairies ex: bootstarp - bulma - material ui - storybook - carbon - chakra ui
 	3. cube css bem  methodologies
@@ -35,9 +36,10 @@
 	2. js onliners - design patterns - dt & algo - cookbook - tips & tricks
 	3. graphQL
 	4. test driven
-	5. clean code & clean architecture
-	6. npm librairies - gsap - three.js
-	7. html 5 api
+	5. typescript
+	6. clean code & clean architecture
+	7. npm librairies - gsap - three.js
+	8. html 5 api
 		1. voice input html5
 		2. drag and drop
 		3. html 5 auth biometric
@@ -51,7 +53,6 @@
 	7. solid js  , svelte js , vue js 
 6. Firebase
 	1. Alt:  strapi & supabase & vendure(shop) & sanity & datocms 
-7. Typescript
 8. Desktop App Dev
 	1. Electron
 	2. Tauri
