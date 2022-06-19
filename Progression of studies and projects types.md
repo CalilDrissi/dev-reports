@@ -2,8 +2,9 @@
 
 1. Planning the Project 
 	1. (Define it, Content Selection, UI Design, tasks breakdown, time estimation and allocation)
-	2. content selection + ui design
-	3. **Standarized Process for each type of projects ( different plan based on type):
+	2. decision - evalute return on cost
+	3. content selection + ui design
+	4. **Standarized Process for each type of projects ( different plan based on type):
 		1. website Front end
 			1. landing page
 			2. cms theme
@@ -17,12 +18,12 @@
 			4. infrustructure system design
 		4. Desktop app
 		5. System program
-	4. design systems - gitlab - ibm carbon etc...
-	5. jonas website personality method
-	6. finding media assets - illustration - 3d models - video etc..
-	7. html elements structure
-	8. what are the phase of software development from idea to production deployment.
-	9. agile scrum mvp approach to software development.
+	5. design systems - gitlab - ibm carbon etc...
+	6. jonas website personality method
+	7. finding media assets - illustration - 3d models - video etc..
+	8. html elements structure
+	9. what are the phase of software development from idea to production deployment.
+	10. agile scrum mvp approach to software development.
 3. Responsive Html/CSS 
 	1. sass & npm dev env
 	2. ui librairies ex: bootstarp - bulma - material ui - storybook - carbon - chakra ui
