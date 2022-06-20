@@ -1,1 +1,0 @@
-the shallow way of teaching computer programs is causing real life problems.
