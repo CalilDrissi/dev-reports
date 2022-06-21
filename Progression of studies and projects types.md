@@ -37,11 +37,12 @@
 		4. parcel
 	2. js onliners - design patterns - dt & algo - cookbook - tips & tricks
 	3. graphQL
-	4. test driven
-	5. typescript
-	6. clean code & clean architecture
-	7. npm librairies - gsap - three.js
-	8. html 5 api
+	4. pwa
+	5. test driven
+	6. typescript
+	7. clean code & clean architecture
+	8. npm librairies - gsap - three.js
+	9. html 5 api
 		1. voice input html5
 		2. drag and drop
 		3. html 5 auth biometric
@@ -51,8 +52,9 @@
 	3. next
 	4. redux
 	5. graphQL
-	6. ui component lib - material ui
-	7. solid js  , svelte js , vue js 
+	6. framermotion
+	7. ui component lib - material ui
+	8. solid js  , svelte js , vue js 
 6. Firebase
 	1. Alt:  strapi & supabase & vendure(shop) & sanity & datocms 
 8. Desktop App Dev
