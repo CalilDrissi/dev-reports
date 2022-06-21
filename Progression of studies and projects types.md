@@ -1,10 +1,11 @@
 ### Progression of studies in software development technology stacks & software Dev Fields:
 
 1. Planning the Project 
-	1. (Define it, Content Selection, UI Design, tasks breakdown, time estimation and allocation)
-	2. decision - evalute return on cost
-	3. content selection + ui design
-	4. **Standarized Process for each type of projects ( different plan based on type):
+	1. make a simple approach to planning - the size of the plan must in proportion with the scope of the project.
+	2. (Define it, Content Selection, UI Design, tasks breakdown, time estimation and allocation)
+	3. decision - evalute return on cost
+	4. content selection + ui design
+	5. **Standarized Process for each type of projects ( different plan based on type):
 		1. website Front end
 			1. landing page
 			2. cms theme
@@ -18,12 +19,12 @@
 			4. infrustructure system design
 		4. Desktop app
 		5. System program
-	5. design systems - gitlab - ibm carbon etc...
-	6. jonas website personality method
-	7. finding media assets - illustration - 3d models - video etc..
-	8. html elements structure
-	9. what are the phase of software development from idea to production deployment.
-	10. agile scrum mvp approach to software development.
+	6. design systems - gitlab - ibm carbon etc...
+	7. jonas website personality method
+	8. finding media assets - illustration - 3d models - video etc..
+	9. html elements structure
+	10. what are the phase of software development from idea to production deployment.
+	11. agile scrum iterations mvp approach to software development.
 3. Responsive Html/CSS 
 	1. sass & npm dev env
 	2. ui librairies ex: bootstarp - bulma - material ui - storybook - carbon - chakra ui
