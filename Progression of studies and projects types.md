@@ -1,7 +1,8 @@
-### Progression of studies in software development technology stacks & software Dev Fields:
 ## best project planning process:
 	1. ask what information this UI is going to present OR capture.
 	2. ask what functionalities this app has to perform.
+		1. core functionality/ies
+		2. extra functionalities
 	3. ask how what is the absolute minimum that can make it viable to use.
 
 
@@ -96,7 +97,7 @@
 	10. github actions ci-cd
 	11. scrum quality optimizatio cycles
 	12. full stack infrastructure for scale-security-reliability-efficient(cost)-data resilliance.
-13. Golang system development
+13. Golang System development
 14. Python
 	1. automate boring stuff - course + book
 	2. django server 
