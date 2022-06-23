@@ -1,4 +1,9 @@
 ### Progression of studies in software development technology stacks & software Dev Fields:
+## best project planning process:
+	1. ask what information this UI is going to present OR capture.
+	2. ask what functionalities this app has to perform.
+	3. ask how what is the absolute minimum that can make it viable to use.
+
 
 1. Planning the Project 
 	1. make a simple approach to planning - the size of the plan must in proportion with the scope of the project.
