@@ -3,7 +3,7 @@
 	2. ask what functionalities this app has to perform.
 		1. core functionality/ies
 		2. extra functionalities
-	3. ask how what is the absolute minimum that can make it viable to use.
+	3. ask what's the absolute minimum that can make it viable to use.
 
 
 1. Planning the Project 
