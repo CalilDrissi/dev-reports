@@ -40,16 +40,6 @@
 
 
 
-
-### Type of project progression:
-
-
-
-
-
-5. server rest api 
-6. webrtc apps
-
 ### Other Topics to Study:
  - the life of a software developer advice & 
 	 - books : street coder - and others in the same vain
